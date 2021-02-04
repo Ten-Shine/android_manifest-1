@@ -27,7 +27,7 @@
           revision="11.1" />
 
   <remote name="ZenX-OS-priv"
-          fetch="ssh://git@github.com/ZenX-OS"
+          fetch="https://github.com/ZenX-OS"
           revision="dev" />
 
   <remote  name="gitlab_public"
